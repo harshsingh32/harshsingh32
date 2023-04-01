@@ -33,21 +33,13 @@ I'm currently pursuing my degree in Bachelor of Technology in prefinal year. I'm
 ### Projects
 Here are some of my notable projects:
 
-1. React-JS-Movie-Search - 
-This is a simple movie search application built using React JS, where users can search for their favorite movies by name, and get a detailed description of each movie. The app utilizes the OMDB API to fetch movie data and provides a seamless user experience. 
-https://github.com/harshsingh32/React-JS-Movie-Search
+1. React-JS-Movie-Search - A React JS based movie search application that allows users to search for their favorite movies by name and provides a detailed description of each movie. Link: https://github.com/harshsingh32/React-JS-Movie-Search
 
-2. Blogging-Platform - 
-This is a full-stack web application built using the MERN stack, which allows users to create, read, update, and delete blog posts. The app features a modern UI with user authentication, form validation, and real-time updates using websockets. Check out the project here.
-https://github.com/harshsingh32/Blogging-Platform-
+2. Blogging-Platform - A full-stack web application built using the MERN stack that allows users to create, read, update, and delete blog posts. The app features a modern UI with user authentication, form validation, and real-time updates using websockets. Link: https://github.com/harshsingh32/Blogging-Platform-
 
-3. Recipe-Search-App - 
-This is a web application built using React JS and the Edamam API, where users can search for recipes by ingredient, meal type, or cuisine. The app features a responsive design and provides detailed information about each recipe, including nutritional information and cooking instructions. Check out the project here.
-https://github.com/harshsingh32/Recipe-Search-App
+3. Recipe-Search-App - A web application built using React JS and the Edamam API, where users can search for recipes by ingredient, meal type, or cuisine. The app features a responsive design and provides detailed information about each recipe, including nutritional information and cooking instructions. Link: https://github.com/harshsingh32/Recipe-Search-App
 
-4. Sorting-Visualization-Tool - 
-This is a web-based sorting visualization tool built using React JS, which allows users to visualize how different sorting algorithms work. The app features a responsive design and provides a step-by-step visual guide to how each algorithm sorts the given data. Check out the project here.
-https://github.com/harshsingh32/Sorting-Visualization-Tool
+4. Sorting-Visualization-Tool - A web-based sorting visualization tool built using React JS, which allows users to visualize how different sorting algorithms work. The app features a responsive design and provides a step-by-step visual guide to how each algorithm sorts the given data. Link: https://github.com/harshsingh32/Sorting-Visualization-Tool
 
 I'm proud of the web applications I've built, and I'm always eager to share them with others.
 
