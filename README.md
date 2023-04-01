@@ -51,7 +51,6 @@ I'm proud of the web applications I've built, and I'm always eager to share them
 • Reading tech blogs and articles: I enjoy reading tech blogs and articles to learn new concepts, techniques, and best practices.
 
 ### Socials 
-
 - Hashnode: https://hashnode.com/@harshsin327
 - LinkedIn: www.linkedin.com/in/harsh-singh-4245771a2
 - Twitter: www.twitter.com/harsh_hasew7890
