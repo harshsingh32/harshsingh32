@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![nyantocat (1)](https://user-images.githubusercontent.com/63696299/229512954-fb07ee9e-a014-40f8-a32c-9954e8c0804d.gif)
 ![NUX_Octodex](https://user-images.githubusercontent.com/63696299/229520678-cbf09b7c-9a68-4aa1-918a-18fc988c5127.gif)
-
-
-
+![codercat](https://user-images.githubusercontent.com/63696299/229522059-1812d812-8f63-43bd-9393-1e581157de23.jpg)
 
 Web developer and designer
 --------------------------
