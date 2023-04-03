@@ -57,7 +57,7 @@ As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript
 
 ### Education
 
-I'm currently pursuing my degree in Bachelor of Technology in prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in Fullstack development. I'm looking for the internship opportunities as a Frontend developer.
+I'm currently pursuing my degree in Bachelor of Technology in CSE, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in Fullstack development. I'm looking for the internship opportunities as a Frontend developer.
 
 ### Projects
 Here are some of my notable projects:
