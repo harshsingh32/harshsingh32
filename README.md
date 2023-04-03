@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-![image](https://user-images.githubusercontent.com/63696299/229511825-83b7389a-074f-46ad-9c05-2712da7908c2.png)
+
+![nyantocat (1)](https://user-images.githubusercontent.com/63696299/229512954-fb07ee9e-a014-40f8-a32c-9954e8c0804d.gif)
 
 
 Web developer and designer
