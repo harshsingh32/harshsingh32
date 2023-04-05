@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-![image_processing20210901-21790-4vd48f](https://user-images.githubusercontent.com/63696299/229522701-be8600de-c368-4962-9c2c-c4180d96716d.gif)
-
 Web developer and designer
 --------------------------
 
