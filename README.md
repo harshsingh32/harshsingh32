@@ -11,7 +11,7 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 - 🤔 I’m looking for help with ML/AI
 - 💬 Ask me about development 
 - 😄 Pronouns: he/him
-* 🌍  I'm based in India
+* 🌍 I'm based in India
 * ✉️  You can contact me at [bio.link/harshsin](mailto:bio.link/harshsin)
 
 
