@@ -16,8 +16,8 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a><a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harsh_hasew7890?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
+src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=f3f3f3" /></a><a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/harsh_hasew7890?logo=twitter&style=for-the-badge&color=000000&labelColor=f3f3f3"
 /></a>
 
 ### Skills
