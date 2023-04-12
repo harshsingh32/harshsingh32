@@ -2,7 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 Web developer and designer
 --------------------------
-
+<h1 aline=center>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
+ </a>
+</h1>
 I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript, and I'm always exploring new technologies and learning new skills to improve my craft.
 
 ⚡ ⚡Driven and ambitious developer with a focus on practical solutions seeks a 6-month internship opportunity to build on existing skills and make valuable contributions to your team and I am actively applying for the 6 or 12 month internship. Hire me. ⚡⚡
