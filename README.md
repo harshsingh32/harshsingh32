@@ -13,7 +13,7 @@ Web developer and designer
 </h1>
 I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript, and I'm always exploring new technologies and learning new skills to improve my craft.
 
-⚡ ⚡Driven and ambitious developer with a focus on practical solutions seeks a 6-month internship opportunity to build on existing skills and make valuable contributions to your team and I am actively applying for the 6 or 12 month internship. Hire me. ⚡⚡
+**Driven and ambitious developer with a focus on practical solutions seeks a 6-month internship opportunity to build on existing skills and make valuable contributions to your team and I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
 
 - 🔭 I’m currently working on whether app
 - 🌱 I’m currently learning reactjs
