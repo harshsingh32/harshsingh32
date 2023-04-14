@@ -22,7 +22,7 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 - 💬 Ask me about development 
 - 😄 Pronouns: he/him
 * 🌍 I'm based in India
-* ✉️  You can contact me at [bio.link/harshsin](mailto:bio.link/harshsin)
+* 📬 You can contact me at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=f3f3f3" /></a><a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img
@@ -89,7 +89,8 @@ I'm proud of the web applications I've built, and I'm always eager to share them
 <p align="left"> <a href="https://www.dev.to/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Harsh Singh#0290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@harshsin327.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@hasew7890" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## Contact me
-If you'd like to connect with me, feel free to reach out to me via Twitter or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harsh_hasew7890) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -101,4 +102,3 @@ If you'd like to connect with me, feel free to reach out to me via Twitter or ma
 <a href="http://www.github.com/harshsingh32"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshsingh32&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/harshsingh32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh32&langs_count=10&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
