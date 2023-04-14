@@ -75,7 +75,7 @@ Here are some of my notable projects:
 
 4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) is a web-based sorting visualization tool built using React JS, which allows to visualize how different sorting algorithms work. The app features a responsive design and provides a visual guide to how each algorithm sorts.
 
-5. [FitClub](https://github.com/harshsingh32/FitTrack) is a web application that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiasts. The app is built using the Flask web framework and uses PostgreSQL as its database.
+5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a web application that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiasts. The app is built using the Flask web framework and uses PostgreSQL as its database.
 
 I'm proud of the web applications I've built, and I'm always eager to share them with others.
 
