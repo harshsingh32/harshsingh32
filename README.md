@@ -78,11 +78,11 @@ Here are some of my notable projects:
 I'm proud of the web applications I've built, and I'm always eager to share them with others.
 
 ### Interests
-• Exploring new technologies: I'm always curious about emerging technologies and their impact on web development.
+• **Exploring new technologies**: I'm always curious about emerging technologies and their impact on web development.
 
-• Attending tech conferences: I love attending conferences and meetups to connect with other developers and stay up-to-date with industry trends.
+• **Attending tech conferences**: I love attending conferences and meetups to connect with other developers and stay up-to-date with industry trends.
 
-• Reading tech blogs and articles: I enjoy reading tech blogs and articles to learn new concepts, techniques, and best practices.
+• **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts, techniques, and best practices.
 
 ### Socials 
 
