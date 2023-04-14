@@ -62,18 +62,18 @@ As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript
 
 ### Education
 
-I'm currently pursuing my degree in Bachelor of Technology in CSE, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in Fullstack development. I'm looking for the internship opportunities as a Frontend developer.
+I'm currently pursuing my degree in Bachelor of Technology in CSE, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in Fullstack development. I'm looking for the 6/12 month internship opportunities as a Frontend developer and Devrel.
 
 ### Projects
 Here are some of my notable projects:
 
-1. React-JS-Movie-Search - A React JS based movie search application that allows users to search for their favorite movies by name and provides a detailed description of each movie. Link: https://github.com/harshsingh32/React-JS-Movie-Search
+1. [React-JS-Movie-Search](https://github.com/harshsingh32/React-JS-Movie-Search)- A React JS based movie search application that allows users to search for their favorite movies by name and provides a detailed description of each movie.
 
-2. Blogging-Platform - A full-stack web application built using the MERN stack that allows users to create, read, update, and delete blog posts. The app features a modern UI with user authentication, form validation, and real-time updates using websockets. Link: https://github.com/harshsingh32/Blogging-Platform-
+2. [Blogging-Platform](https://github.com/harshsingh32/Blogging-Platform-) - A full-stack web application built using the MERN stack that allows users to create, read, update, and delete blog posts. The app features a modern UI with user authentication, form validation, and real-time updates using websockets. 
 
-3. Recipe-Search-App - A web application built using React JS and the Edamam API, where users can search for recipes by ingredient, meal type, or cuisine. The app features a responsive design and provides detailed information about each recipe, including nutritional information and cooking instructions. Link: https://github.com/harshsingh32/Recipe-Search-App
+3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) - A web application built using React JS and the Edamam API, where users can search for recipes by ingredient, meal type, or cuisine. The app features a responsive design and provides detailed information about each recipe. 
 
-4. Sorting-Visualization-Tool - A web-based sorting visualization tool built using React JS, which allows users to visualize how different sorting algorithms work. The app features a responsive design and provides a step-by-step visual guide to how each algorithm sorts the given data. Link: https://github.com/harshsingh32/Sorting-Visualization-Tool
+4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) - A web-based sorting visualization tool built using React JS, which allows users to visualize how different sorting algorithms work. The app features a responsive design and provides a visual guide to how each algorithm sorts.
 
 I'm proud of the web applications I've built, and I'm always eager to share them with others.
 
