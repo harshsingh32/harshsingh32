@@ -28,7 +28,8 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=f3f3f3" /></a><a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harsh_hasew7890?logo=twitter&style=for-the-badge&color=000000&labelColor=f3f3f3"
 /></a>
-[![](https://visitcount.itsvg.in/api?id=harshsingh32&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh32&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
+
 ### Skills
 • Git • Go • Java • JavaScript • C • Python • TypeScript • HTML5 • React • NextJs • CSS3 • Sass • TailwindCSS • Bootstrap • Redux • Webpack • NodeJS • Fast API • npm • MongoDB • MySQL • Heroku • Vercel •
 
