@@ -58,11 +58,11 @@ src="https://img.shields.io/twitter/follow/harsh_hasew7890?logo=twitter&style=fo
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript, with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience and have a deep understanding of Python, NPM, and Node.js. If you're seeking a versatile developer who can bring your ideas to life with clean, well-structured code, I'm your ideal candidate.
+As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience and have a deep understanding of **Python, NPM, and Node.js**. If you're seeking a versatile developer who can bring your ideas to life with clean, well-structured code, I'm your **ideal candidate**.
 
 ### Education
 
-I'm currently pursuing my degree in Bachelor of Technology in CSE, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in Fullstack development. I'm looking for the 6/12 month internship opportunities as a Frontend developer and Devrel.
+I'm currently pursuing my degree in **Bachelor of Technology in CSE**, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6/12 month internship opportunities as a Frontend developer and Devrel**.
 
 ### Projects
 Here are some of my notable projects:
