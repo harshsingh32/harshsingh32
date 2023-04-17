@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
+![Harsh Singh](https://user-images.githubusercontent.com/63696299/232480095-a2ff067a-78f3-437f-90cd-cabc13cb6b2f.png)
+
+
 Web developer and designer
 --------------------------
 <h1 aline=center>
