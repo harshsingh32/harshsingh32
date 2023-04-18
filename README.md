@@ -1,11 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
-</div>
-
-![Harsh Singh (1)](https://user-images.githubusercontent.com/63696299/232482063-665835c5-9331-4bb4-a1b6-59007802cc07.png)
-
 Web developer and designer
 --------------------------
 <h1 aline=center>
