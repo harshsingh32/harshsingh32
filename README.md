@@ -20,13 +20,7 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 - 🌍 I'm based in India
 - 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 📄 [Resume](https://docs.google.com/document/d/1Cpbu3Zr1Wm4p-XspJUQry3iqa1vJzGSt/edit?usp=drivesdk&ouid=113610847973499093625&rtpof=true&sd=true) 
-- ☸️ [Portfolio](harshsingh32.github.io/)
-
-My message could not be send Twitter through dm. I have tried multiple times.
-
-My github - https://github.com/harshsingh32
-
-My twitter - https://twitter.com/harsh_hasew7890
+- 🎵 [Portfolio](https://harshsingh32.github.io/)
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=f3f3f3" /></a><a href="https://www.twitter.com/harsh_hasew7890" target="_blank" rel="noreferrer"><img
