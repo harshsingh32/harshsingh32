@@ -19,7 +19,6 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 - 😄 Pronouns: he/him
 - 🌍 I'm based in India
 - 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 📄 [Resume](https://docs.google.com/document/d/1Cpbu3Zr1Wm4p-XspJUQry3iqa1vJzGSt/edit?usp=drivesdk&ouid=113610847973499093625&rtpof=true&sd=true) 
 - 🎵 [Portfolio](https://harshsingh32.github.io/)
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
