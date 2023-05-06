@@ -12,7 +12,7 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 **Driven and ambitious developer with a focus on practical solutions seeks a 6-month internship opportunity to build on existing skills and make valuable contributions to your team and I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
 
 - 🔭 I’m currently working on whether app
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Fullstack development 
 - 🤔 I’m looking for help with ML/AI
 - 💬 Ask me about development 
