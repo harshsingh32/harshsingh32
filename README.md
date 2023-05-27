@@ -26,7 +26,10 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 - 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 🎵 [Portfolio](https://harshsingh32.github.io/)
 
-
+<a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a><a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/harshstwts?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
+/></a>
 
 
 
