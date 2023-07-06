@@ -28,7 +28,7 @@ I'm an undergraduate student in tech with a passion for Fullstack development. I
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harshstwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
+src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
 /></a>
 
 
@@ -93,11 +93,11 @@ I'm proud of the web applications I've built, and I'm always eager to share them
 ### Socials 
 
 <p align="left">   <a href="https://www.dev.to/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>     <a href="https://discord.com/users/Harsh Singh#0290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="https://hashnode.com/@harshsin327" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="http://www.medium.com/@hasew7890" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>    
-<a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/harshsitwts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 ## Contact me
-If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harshstwts) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harshsitwts) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ### Badges
 
