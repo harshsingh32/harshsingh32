@@ -1,26 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-Web developer and designer
+Full Stack Developer 
 --------------------------
 <h1 aline=center>
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
  </a>
  
-
-
- 
- 
 </h1 >
 I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript, and I'm always exploring new technologies and learning new skills to improve my craft.
 
-**Driven and ambitious developer with a focus on practical solutions seeks a 6-month internship opportunity to build on existing skills and make valuable contributions to your team and I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
+**I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
 
-- 🔭 I’m currently working on whether app
+- 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Fullstack development 
-- 🤔 I’m looking for help with ML/AI
-- 💬 Ask me about development 
+- 🤔 I’m looking for help with Full Stack Development.
+- 💬 Ask me about Development 
 - 😄 Pronouns: he/him
 - 🌍 I'm based in India
 - 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
@@ -34,7 +30,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 
 ### Skills
-• Git • Go • Java • JavaScript • C • Python • TypeScript • HTML5 • React • NextJs • CSS3 • Sass • TailwindCSS • Bootstrap • Redux • Webpack • NodeJS • Fast API • npm • MongoDB • MySQL • Heroku • Vercel •
+• Git • Go • Java • JavaScript • C • Python • TypeScript • HTML5 • React • NextJs • CSS3 • Sass • TailwindCSS • Bootstrape • Webpack • NodeJS • npm • MongoDB • MySQL • Vercel •
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -62,11 +58,11 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience and have a deep understanding of **Python, NPM, and Node.js**. If you're seeking a versatile developer who can bring your ideas to life with clean, well-structured code, I'm your **ideal candidate**.
+As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.
 
 ### Education
 
-I'm currently pursuing my degree in **Bachelor of Technology in CSE**, prefinal year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6/12 month internship opportunities as a Frontend developer and Devrel**.
+I'm currently pursuing my degree in **Bachelor of Technology in CSE**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities as a Frontend developer and Devrel**.
 
 ### Projects
 Here are some of my notable projects:
