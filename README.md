@@ -8,7 +8,7 @@ Full Stack Developer
  </a>
  
 </h1 >
-I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript, and I'm always exploring new technologies and learning new skills to improve my craft.
+I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript.
 
 **I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
 
