@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-Full Stack Developer 
+🔶 Full Stack Developer 🔶
 --------------------------
 <h1 aline=center>
  <a href="https://git.io/typing-svg">
@@ -58,11 +58,11 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.
 
-### Education
+### Education 🎓
 
-I'm currently pursuing my degree in **Bachelor of Technology in CSE**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities as a Frontend developer and Devrel**.
+I'm currently pursuing my degree in **Bachelor of Technology in CSE**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities in the same**.
 
-### Projects
+### Projects🚀🚀
 Here are some of my notable projects:
 
 1. [React-JS-Movie-Search](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name** and provides a detailed description of each movie.
@@ -77,14 +77,14 @@ Here are some of my notable projects:
 
 I'm proud of the web applications I've built, and I'm always eager to share them with others.
 
-### Interests
+### Interests✨✨
 • **Exploring new technologies**: I'm always curious about emerging technologies and their impact on web development.
 
 • **Attending tech conferences**: I love attending conferences and meetups to connect with other developers and stay up-to-date with industry trends.
 
 • **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts, techniques, and best practices.
 
-### Socials 
+### Socials ☘️
 
 <p align="left">   <a href="https://www.dev.to/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>     <a href="https://discord.com/users/Harsh Singh#0290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="https://hashnode.com/@harshsin327" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="http://www.medium.com/@hasew7890" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>    
 <a href="https://www.twitter.com/harshsitwts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
