@@ -10,13 +10,13 @@ Full Stack Developer
 </h1 >
 I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications that provide a smooth user experience. I'm proficient in HTML, CSS, and JavaScript.
 
-**I am actively applying for the 6/12 month internship. Please 😊 Hire me.**
+**I am actively applying for the 6 month internship. Please 😊 Hire me.**
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Fullstack development 
 - 🤔 I’m looking for help with Full Stack Development.
-- 💬 Ask me about Development 
+- 💬 Ask me about Web Development 
 - 😄 Pronouns: he/him
 - 🌍 I'm based in India
 - 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
