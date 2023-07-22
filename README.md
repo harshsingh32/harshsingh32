@@ -27,10 +27,8 @@ src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
 /></a>
 
-
-
 ### Skills
-• Git • Go • Java • JavaScript • C • Python • TypeScript • HTML5 • React • NextJs • CSS3 • Sass • TailwindCSS • Bootstrape • Webpack • NodeJS • npm • MongoDB • MySQL • Vercel •
+• Git • Go • Java • JavaScript • C • Python • TypeScript • HTML5 • React • NodeJs • CSS3 • Sass • TailwindCSS • Bootstrape • npm • MongoDB • SQL • Vercel •
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
