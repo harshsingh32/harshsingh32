@@ -60,24 +60,22 @@ I'm currently pursuing my degree in **Bachelor of Technology in CSE**, Final yea
 ### Projects🚀🚀
 Here are some of my notable projects:
 
-1. [React-JS-Movie-Search](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name** and provides a detailed description of each movie.
+1. [React-JS-Movie-Search](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name**.
 
-2. [Blogging-Platform](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blog posts. The app features a modern UI with user authentication, form validation, and real-time updates using websockets. 
+2. [Blogging-Platform](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blog posts.
 
-3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes by ingredient, meal type, or cuisine. The app features a responsive design and provides detailed information about each recipe. 
+3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes by ingredient, meal type, or cuisine.
 
-4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) is a web-based **sorting visualization tool** built using React JS, which allows to visualize how different sorting algorithms work. The app features a responsive design and provides a visual guide to how each algorithm sorts.
+4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) is a web-based **sorting visualization tool** built using React JS, which allows to visualize how different sorting algorithms work. 
 
-5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiasts. The app is built using the Flask web framework and uses PostgreSQL as its database.
-
-I'm proud of the web applications I've built, and I'm always eager to share them with others.
+5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiast.
 
 ### Interests✨✨
-• **Exploring new technologies**: I'm always curious about emerging technologies and their impact on web development.
+• **Exploring new technologies**: I'm always curious about emerging technologies.
 
-• **Attending tech conferences**: I love attending conferences and meetups to connect with other developers and stay up-to-date with industry trends.
+• **Attending tech conferences**: I love attending conferences and meetups.
 
-• **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts, techniques, and best practices.
+• **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts.
 
 ### Socials ☘️
 
