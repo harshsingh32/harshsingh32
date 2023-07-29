@@ -8,7 +8,7 @@ Full Stack Developer
  </a>
  
 </h1 >
-I'm an undergraduate student in tech with a passion for Fullstack development. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.
+I'm a Web developer with a passion for Fullstack development. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.
 
 **I am actively applying for the 6 month internship. Please 😊 Hire me.**
 
@@ -55,7 +55,7 @@ As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and Java
 
 ### Education 🎓
 
-I'm currently pursuing my degree in **Bachelor of Technology in CSE**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities in the same**.
+I'm currently pursuing my degree in **Bachelor of Technology in Computer Science and Engineering**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities in the same**.
 
 ### Projects🚀🚀
 Here are some of my notable projects:
