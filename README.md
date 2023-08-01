@@ -60,9 +60,9 @@ I'm currently pursuing my degree in **Bachelor of Technology in Computer Science
 ### Projects🚀🚀
 Here are some of my notable projects:
 
-1. [React-JS-Movie-Search](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name**.
+1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name**.
 
-2. [Blogging-Platform](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blog posts.
+2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blog posts.
 
 3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes by ingredient, meal type, or cuisine.
 
