@@ -62,13 +62,13 @@ Here are some of my notable projects:
 
 1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name**.
 
-2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blog posts.
+2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blogs.
 
-3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes by ingredient, meal type, or cuisine.
-
+3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes.
+  
 4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) is a web-based **sorting visualization tool** built using React JS, which allows to visualize how different sorting algorithms.
 
-5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiast.
+5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress.
 
 ### Interests✨✨
 • **Exploring new technologies**: I'm always curious about emerging technologies.
