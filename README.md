@@ -88,7 +88,7 @@ Here are some of my notable projects:
 ## Contact me
 If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harshsitwts) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/square-twitter.svg" width="50" height="50">
+<img src="img/github.svg" width="50" height="50">
 
 ### Badges
 
