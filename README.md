@@ -20,7 +20,6 @@ I'm a Web developer with a passion for Fullstack development. I love building cr
 
 >*Collaboration First*, **Code Second** - Eddie Jaoude.
 
-
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
@@ -53,6 +52,12 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 </p>
 
+### Socials ☘️
+
+* [Twitter](https://twitter.com/harshsitwts)
+* [Hashnode](https://hashnode.com/@harshsin327)
+* [Bio Link](https://bio.link/harshsingh32)
+
 As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.
 
 ### Education 🎓
@@ -79,11 +84,7 @@ Here are some of my notable projects:
 
 • **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts.
 
-### Socials ☘️
 
-* [Twitter](https://twitter.com/harshsitwts)
-* [Hashnode](https://hashnode.com/@harshsin327)
-* [Bio Link](https://bio.link/harshsingh32)
 
 
 ## Contact me
