@@ -18,6 +18,9 @@ I'm a Web developer with a passion for Fullstack development. I love building cr
 - 📧 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 🔗 [Portfolio](https://my-portfolio-mu-eosin.vercel.app/)
 
+>*Collaboration First*, **Code Second** - Eddie Jaoude.
+
+
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
