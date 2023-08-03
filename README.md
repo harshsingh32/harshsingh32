@@ -16,7 +16,7 @@ I'm a Web developer with a passion for Fullstack development. I love building cr
 - 😄 Pronouns: he/him
 - 🌍 I'm based in India
 - 📧 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 🔗 [Portfolio](https://my-portfolio-mu-eosin.vercel.app/)
+- 🔗 [Portfolio](https://harshsingh32.vercel.app/)
 
 >*Collaboration First*, **Code Second** - Eddie Jaoude.
 
