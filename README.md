@@ -79,7 +79,7 @@ Here are some of my notable projects:
 
 ### Socials ☘️
 
-• [Twitter](https://twitter.com/harshsitwts)
+• [Twitter](https://twitter.com/harshsitwts)![fa-github](fa-github.svg)
 • [Hashnode](https://hashnode.com/@harshsin327)
 • [Bio Link](https://bio.link/harshsingh32)
 
