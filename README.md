@@ -5,8 +5,7 @@ Full Stack Developer
 <h1 aline=center>
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
- </a>
- 
+ </a> 
 </h1 >
 I'm a Web developer with a passion for Fullstack development. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.
 
@@ -16,8 +15,8 @@ I'm a Web developer with a passion for Fullstack development. I love building cr
 - 🤔 I’m looking for help and collaboration with Full Stack Development 
 - 😄 Pronouns: he/him
 - 🌍 I'm based in India
-- 📬 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 🎵 [Portfolio](https://my-portfolio-mu-eosin.vercel.app/)
+- 📧 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 🔗 [Portfolio](https://my-portfolio-mu-eosin.vercel.app/)
 
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshstwts" target="_blank" rel="noreferrer"><img
