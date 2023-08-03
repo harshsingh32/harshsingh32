@@ -79,8 +79,9 @@ Here are some of my notable projects:
 
 ### Socials ☘️
 
-<p align="left">   <a href="https://www.dev.to/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>     <a href="https://discord.com/users/Harsh Singh#0290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   <a href="https://hashnode.com/@harshsin327" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="http://www.medium.com/@hasew7890" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>    
-<a href="https://www.twitter.com/harshsitwts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+• [Twitter](https://twitter.com/harshsitwts)
+• [Hashnode](https://hashnode.com/@harshsin327)
+• [Bio Link](https://bio.link/harshsingh32)
 
 
 ## Contact me
