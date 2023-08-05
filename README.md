@@ -54,10 +54,14 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 </p>
 
 ### Socials ☘️
+<h1 align = "center">
+  
+  <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://bio.link/harshsingh32" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
-* [Twitter](https://twitter.com/harshsitwts)
-* [Hashnode](https://hashnode.com/@harshsin327)
-* [Bio Link](https://bio.link/harshsingh32)
+</h1>
 
 As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.
 
