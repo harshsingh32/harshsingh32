@@ -95,7 +95,6 @@ Here are some of my notable projects:
 ## Contact me
 If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harshsitwts) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-<img src= "https://github.com/harshsingh32/harshsingh32/tree/main/img" width="50" height="50">
 
 ### Badges
 
