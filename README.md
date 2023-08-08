@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
 Full Stack Developer
 ----------------------------------
@@ -57,9 +57,15 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 <p align = "center">
   
   <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-ff751a?style=for-the-badge&logo=biolink&logoColor=white"/>
-</a>
-<a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</a>&nbsp;&nbsp;  <a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-F0587E?style=for-the-badge&logo=biolink&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto: hasew7890@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 </p>
 
