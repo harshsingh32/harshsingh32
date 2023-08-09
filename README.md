@@ -44,7 +44,6 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### Socials ☘️
 <p align = "center">
   
