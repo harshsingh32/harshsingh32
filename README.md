@@ -68,7 +68,11 @@ As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and Java
 
 ### Education 🎓
 
-I'm currently pursuing my degree in **Bachelor of Technology in Computer Science and Engineering**, Final year. I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. I'm looking for the **6 months internship opportunities in the same**.
+I'm currently pursuing my degree in **Bachelor of Technology in Computer Science and Engineering**, Final year. 
+
+I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. 
+
+I'm looking for the **6 months internship opportunities in the same**.
 
 ### Projects🚀🚀
 Here are some of my notable projects:
