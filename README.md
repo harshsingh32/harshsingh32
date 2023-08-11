@@ -83,7 +83,7 @@ Here are some of my notable projects:
 
 3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes.
   
-4. [Sorting-Visualization-Tool](https://github.com/harshsingh32/Sorting-Visualization-Tool) is a web-based **sorting visualization tool** built using React JS, which allows to visualize how different sorting algorithms.
+4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce) -captivating online shopping journey with our MERN stack ecommerce website. Seamlessly powered by the Shopify API, this dynamic platform offers modern design, robust user authentication, 
 
 5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress.
 
