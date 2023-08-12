@@ -14,6 +14,7 @@ I'm a Web developer with a passion for Fullstack development. I love building cr
 - 🔭 I’m currently working on Machine Learning
 - 🤔 I’m looking for help and collaboration with Full Stack Development 
 - 😄 Pronouns: he/him
+- ✨ Education: Bachelor of Technology in Computer Science and Engineering, Final year
 - 🌍 I'm based in India
 - 📧 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 🔗 [Portfolio](https://harshsingh32.vercel.app/)
@@ -66,39 +67,18 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.
 
-### Education 🎓
-
-I'm currently pursuing my degree in **Bachelor of Technology in Computer Science and Engineering**, Final year. 
-
-I'm constantly seeking opportunities to enhance my skills and knowledge in **Fullstack development**. 
-
-I'm looking for the **6 months internship opportunities in the same**.
-
 ### Projects🚀🚀
 Here are some of my notable projects:
-
-1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search) is an application that allows users to search for their **favorite movies by name**.
-
-2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-) is a **full-stack web application** built using the **MERN stack** that allows to create, read, update, and delete blogs.
-
-3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) is a **full stack web application** built using **React JS and the Edamam API**, where users can search for recipes.
-  
-4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce) -captivating online shopping journey with our MERN stack ecommerce website. Seamlessly powered by the Shopify API, this dynamic platform offers modern design, robust user authentication, 
-
-5. [FitTrack](https://github.com/harshsingh32/FitTrack) is a **full stack web application** that allows users to track their fitness progress.
+1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search).
+2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-).
+3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) 
+4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce).
+5. [FitTrack](https://github.com/harshsingh32/FitTrack).
 
 ### Interests✨✨
-• **Exploring new technologies**: I'm always curious about emerging technologies.
-
-• **Attending tech conferences**: I love attending conferences and meetups.
-
-• **Reading tech blogs and articles**: I enjoy reading tech blogs and articles to learn new concepts.
-
-
-
-
-## Contact me
-If you'd like to connect with me, feel free to reach out via [Twitter](https://twitter.com/harshsitwts) or mail at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+1. **Exploring new technologies**.
+2. **Attending tech conferences**.
+3. **Reading tech blogs and articles**.
 
 
 ### Badges
