@@ -5,11 +5,12 @@
 
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
 <details>
-<summary>➡️</summary>
+<summary>⬇️⬇️</summary>
 <code>As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.</code>
 </details>
 
 *I am actively applying for the 6 month internship. Please 😊 Hire me.*
+
 🔥 [Portfolio](https://harshsingh32.vercel.app/)
 
 <details>
