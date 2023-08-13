@@ -12,13 +12,14 @@
 *I am actively applying for the 6 month internship. Please 😊 Hire me.*
 
 ### 💫About me
-- 🔭 I’m currently working on Machine Learning
-- 🤔 I’m looking for help and collaboration with Full Stack Development 
-- 😄 Pronouns: he/him
-- ✨ Education: Bachelor of Technology in Computer Science and Engineering, Final year
-- 🌍 I'm based in India
-- 📧 Contact at [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 🔗 [Portfolio](https://harshsingh32.vercel.app/)
+- 🔭 Currently working on Machine Learning
+- 🤔 Looking for help and collaboration with Full Stack Development 
+- ➡️ Pronouns: he/him
+- ✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year
+- 🌍 Based : India
+- ⚡ Contact : [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 🔥 [Portfolio](https://harshsingh32.vercel.app/)
+- 🌠Interests : Enjoy discovering cutting-edge technologies.
 
 >*Collaboration First*, **Code Second** - Eddie Jaoude.
 
@@ -28,7 +29,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 /></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=harshsingh32&label=Profile%20Views%20&countColor=%23000000)
 
-### Skills
+### 🌀 Skills
 [![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -47,7 +48,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 
-### Socials ☘️
+### 🌄 Socials 
 <p align = "center">
   
   <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -63,18 +64,13 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 </p>
 
-### Projects🚀🚀
+### 🏞️ Projects
 Here are some of my notable projects:
 1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search).
 2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-).
 3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) 
 4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce).
 5. [FitTrack](https://github.com/harshsingh32/FitTrack).
-
-### Interests✨✨
-1. **Exploring new technologies**.
-2. **Attending tech conferences**.
-3. **Reading tech blogs and articles**.
 
 
 ### Badges
