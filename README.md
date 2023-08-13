@@ -11,15 +11,19 @@
 
 *I am actively applying for the 6 month internship. Please 😊 Hire me.*
 
-### 💫About me
-- 🔭 Currently working on Machine Learning
-- 🤔 Looking for help and collaboration with Full Stack Development 
-- ➡️ Pronouns: he/him
-- ✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year
-- 🌍 Based : India
-- ⚡ Contact : [Harsh Singh](mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 🔥 [Portfolio](https://harshsingh32.vercel.app/)
-- 🌠Interests : Enjoy discovering cutting-edge technologies.
+<details>
+<summary><h3>💫 About Me</h3></summary>
+    <ul>
+        <li>🔭 Currently working on Machine Learning</li>
+        <li>🤔 Looking for help and collaboration with Full Stack Development</li>
+        <li>➡️ Pronouns: he/him</li>
+        <li>✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year</li>
+        <li>🌍 Based: India</li>
+        <li>⚡ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
+        <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
+        <li>🌠 Interests: Enjoy discovering cutting-edge technologies.</li>
+    </ul>
+</details>
 
 >*Collaboration First*, **Code Second** - Eddie Jaoude.
 
