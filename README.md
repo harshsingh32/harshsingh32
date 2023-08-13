@@ -53,9 +53,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 
 ### 🌐 Socials 
-<p align = "center">
-  
-  <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>&nbsp;&nbsp;  <a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-F0587E?style=for-the-badge&logo=biolink&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>&nbsp;&nbsp;
@@ -67,6 +65,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 </a>&nbsp;&nbsp;
 
 </p>
+
 
 ### 🏞️ Projects
 <details>
