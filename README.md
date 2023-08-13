@@ -10,6 +10,7 @@
 </details>
 
 *I am actively applying for the 6 month internship. Please 😊 Hire me.*
+🔥 [Portfolio](https://harshsingh32.vercel.app/)
 
 <details>
 <summary><h3>💫 About Me</h3></summary>
@@ -20,7 +21,6 @@
         <li>✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year</li>
         <li>🌍 Based: India</li>
         <li>⚡ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
-        <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
         <li>🌠 Interests: Enjoy discovering cutting-edge technologies.</li>
     </ul>
 </details>
