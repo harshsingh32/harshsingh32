@@ -32,7 +32,6 @@
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshsitwts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
 /></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=harshsingh32&label=Profile%20Views%20&countColor=%23000000)
 
 ### 🌀 Skills
 [![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
