@@ -7,10 +7,11 @@
 
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
 
-``As a skilled **full-stack developer**, I have expertise in **HTML, CSS, and JavaScript**, with experience in **React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP**. I build **responsive websites** with a focus on user experience.``
+``As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.``
 
-**I am actively applying for the 6 month internship. Please 😊 Hire me.**
+*I am actively applying for the 6 month internship. Please 😊 Hire me.*
 
+### 💫About me
 - 🔭 I’m currently working on Machine Learning
 - 🤔 I’m looking for help and collaboration with Full Stack Development 
 - 😄 Pronouns: he/him
