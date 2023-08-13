@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 
-### 🌄 Socials 
+### 🌐 Socials 
 <p align = "center">
   
   <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -72,12 +72,21 @@ Here are some of my notable projects:
 4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce).
 5. [FitTrack](https://github.com/harshsingh32/FitTrack).
 
+### :octocat:&nbsp; Misc.
 
-### Badges
+<details>
+<summary>Github Stats</summary>
+<br />
 
-<b>My GitHub Stats</b>
+<img href="https://github.com/harshsingh32/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=harshsingh32&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" />
 
-<a href="http://www.github.com/harshsingh32"><img src="https://github-readme-stats.vercel.app/api?username=harshsingh32&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="harshsingh32's GitHub stats" /></a>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsingh32&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="harshsingh32" />
 
-<a href="http://www.github.com/harshsingh32"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsingh32&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
+<br />
+<img src="https://komarev.com/ghpvc/?username=harshsingh32&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh32" />
+<a href="https://github.com/harshsingh32/your_repo_name/network/members"><img src="https://img.shields.io/github/forks/harshsingh32/your_repo_name" alt="Forks Badge"/></a>
+<a href="https://github.com/harshsingh32/your_repo_name/issues"><img src="https://img.shields.io/github/issues/harshsingh32/your_repo_name" alt="Issues Badge"/></a>
+<br />
+<br />
+</details>
