@@ -1,13 +1,13 @@
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
 ===================================================================================================================================
-Full Stack Developer
+Web Developer
 ----------------------------------
 <h1 aline=center>
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
  </a> 
 </h1 >
-I'm a Web developer with a passion for Fullstack development. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.
+I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.
 
 **I am actively applying for the 6 month internship. Please 😊 Hire me.**
 
