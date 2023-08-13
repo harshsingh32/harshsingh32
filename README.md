@@ -69,12 +69,17 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 </p>
 
 ### 🏞️ Projects
-Here are some of my notable projects:
-1. [Movie-Search App](https://github.com/harshsingh32/React-JS-Movie-Search).
-2. [Blogging App](https://github.com/harshsingh32/Blogging-Platform-).
-3. [Recipe-Search-App](https://github.com/harshsingh32/Recipe-Search-App) 
-4. [🛍️ Shopify-Integrated Ecommerce](https://github.com/harshsingh32/ecommerce).
-5. [FitTrack](https://github.com/harshsingh32/FitTrack).
+<details>
+<summary>Web Development</summary>
+    <ol>
+        <li><a href="https://github.com/harshsingh32/React-JS-Movie-Search">Movie-Search App</a></li>
+        <li><a href="https://github.com/harshsingh32/Blogging-Platform-">Blogging App</a></li>
+        <li><a href="https://github.com/harshsingh32/Recipe-Search-App">Recipe-Search-App</a></li>
+        <li><a href="https://github.com/harshsingh32/ecommerce">Shopify-Integrated Ecommerce</a></li>
+        <li><a href="https://github.com/harshsingh32/FitTrack">FitTrack</a></li>
+    </ol>
+</details>
+
 
 ### :octocat:&nbsp; Misc.
 
