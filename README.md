@@ -6,8 +6,12 @@
  </a> 
 
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
-
-``As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.``
+<details>
+<summary>➡️</summary>
+ </summary>
+<br />
+As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.
+</details>
 
 *I am actively applying for the 6 month internship. Please 😊 Hire me.*
 
@@ -85,8 +89,7 @@ Here are some of my notable projects:
 
 <br />
 <img src="https://komarev.com/ghpvc/?username=harshsingh32&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh32" />
-<a href="https://github.com/harshsingh32/your_repo_name/network/members"><img src="https://img.shields.io/github/forks/harshsingh32/your_repo_name" alt="Forks Badge"/></a>
-<a href="https://github.com/harshsingh32/your_repo_name/issues"><img src="https://img.shields.io/github/issues/harshsingh32/your_repo_name" alt="Issues Badge"/></a>
+
 <br />
 <br />
 </details>
