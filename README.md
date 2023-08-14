@@ -6,14 +6,15 @@
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
 <details>
 <summary>➡️ I am actively applying for the 6 month internship.Hire me. 
-<h3>💫 About Me</h3>
-<ul>
+<h2>💫 About Me</h2>
+    <ul>
         <li>🔭 Currently working on Machine Learning</li>
         <li>🤔 Looking for help and collaboration with Full Stack Development</li>
         <li>➡️ Pronouns: he/him</li>
         <li>✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year</li>
         <li>🌍 Based: India</li>
         <li>⚡ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
+        <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
         <li>🌠 Interests: Enjoy discovering cutting-edge technologies.</li>
     </ul>
 
