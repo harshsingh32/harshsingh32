@@ -5,7 +5,7 @@
 
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
 <details>
-<summary>➡️ I am applying for the 6 month internship.Hire me.
+<summary>➡️ I am applying for the 6 month internship. Hire me.
 <br>
 <h3>💫 About Me</h3>
     <ul>
