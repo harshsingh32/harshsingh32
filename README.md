@@ -7,6 +7,9 @@
 <details>
 <summary>➡️ I am applying for the 6 month internship. Hire me.
 <br>
+	
+---
+
 <h3>💫 About Me</h3>
     <ul>
         <li>🔭 Currently working on Machine Learning</li>
@@ -18,11 +21,12 @@
         <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
         <li>🌠 Interests: Enjoy discovering cutting-edge technologies.</li>
     </ul>
+    
+----
 
 </summary>
 As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.
 
- 
 
 </details>
 
@@ -36,6 +40,8 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 <a href="https://harshsingh3972.sayout.net">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
 </a>
+
+---
 
 ### 🌀 Skills
 [![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -55,7 +61,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-
+---
 ### 🌐 Socials 
 <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>&nbsp;&nbsp;  <a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-F0587E?style=for-the-badge&logo=biolink&logoColor=white"/>
@@ -70,6 +76,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 </p>
 
+----
 
 ### 🏞️ Projects
 <details>
@@ -83,6 +90,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
     </ol>
 </details>
 
+---
 
 ### :octocat:&nbsp; Misc.
 
