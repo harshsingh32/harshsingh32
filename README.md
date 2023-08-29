@@ -35,9 +35,7 @@ As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript
 <a href="https://www.github.com/harshsingh32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshsingh32?logo=github&style=for-the-badge&color=000000&labelColor=#F0F8FF" /></a><a href="https://www.twitter.com/harshsitwts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-the-badge&color=000000&labelColor=#FFF8DC"
-/></a>
-
-<a href="https://harshsingh3972.sayout.net">
+/></a><a href="https://harshsingh3972.sayout.net">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
 </a>
 
