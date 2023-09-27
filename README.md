@@ -7,7 +7,6 @@
 <details>
 <summary>➡️ I am applying for the 6 month internship. Hire me.
 <br>
-	
 ---
 
 <h3>💫 About Me</h3>
