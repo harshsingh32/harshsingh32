@@ -68,7 +68,7 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 
 ----
 
-### 🏞️ Projects
+### 🔗 Projects
 <details>
 <summary>Web Development</summary>
     <ol>
