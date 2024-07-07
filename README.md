@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
  </a> -->
 
-`` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
-<details>
+I'm a Web developer with a passion for collaborate with awesome devs. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript
 
 ---
 
