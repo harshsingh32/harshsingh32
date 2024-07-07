@@ -5,26 +5,24 @@
 
 `` I'm a Web developer with a passion for collaborate with awesome devs . I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript.``
 <details>
-<summary>➡️ I am applying for the 6 month internship. Hire me.
-<br>
+
 ---
 
 <h3>💫 About Me</h3>
     <ul>
-        <li>🔭 Currently working on Machine Learning</li>
-        <li>🤔 Looking for help and collaboration with Full Stack Development</li>
+        <li>🔭 Currently working on Software Development</li>
         <li>➡️ Pronouns: he/him</li>
-        <li>✴️ Education: Bachelor of Technology in Computer Science and Engineering, Final year</li>
+        <li>✴️ Education: Bachelor of Technology (CSE)</li>
         <li>🌍 Based: India</li>
         <li>⚡ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
         <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
-        <li>🌠 Interests: Enjoy discovering cutting-edge technologies.</li>
+        <li>
     </ul>
     
 ----
 
 </summary>
-As a skilled full-stack developer, I have expertise in HTML, CSS, and JavaScript with experience in React, Vue.js, Git, and SaaS platforms like AWS, Azure, and GCP. I build responsive websites with a focus on user experience.
+As a skilled full-stack developer, I have expertise in React, Vue.js, Git, and Cloud platforms like AWS, Azure, and GCP. 
 
 
 </details>
