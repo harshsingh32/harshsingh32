@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
  </a> -->
 
-I'm a Web developer with a passion for collaborate with awesome devs. I love building creative and engaging web applications I'm proficient in HTML, CSS, and JavaScript
+I'm a Web developer with a passion for collaborate with awesome devs. I love building creative and engaging web applications. As a skilled full-stack developer, I have expertise in React, Vue.js, Git, and Cloud platforms like AWS, Azure, and GCP
 
 ---
 
@@ -15,13 +15,11 @@ I'm a Web developer with a passion for collaborate with awesome devs. I love bui
         <li>🌍 Based: India</li>
         <li>⚡ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
         <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
-        <li>
     </ul>
     
 ----
 
 </summary>
-As a skilled full-stack developer, I have expertise in React, Vue.js, Git, and Cloud platforms like AWS, Azure, and GCP. 
 
 
 </details>
