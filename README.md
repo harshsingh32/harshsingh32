@@ -13,8 +13,8 @@ I'm a Software Developer with a passion for collaborate with awesome devs. As a 
         <li>➡️ Pronouns: he/him</li>
         <li>✴️ Education: Bachelor of Technology (CSE)</li>
         <li>🌍 Based: India</li>
-        <li>☘️ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
-        <li>🔥 <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
+        <li>✳️ Contact: <a href="mailto:hasew7890@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">Harsh Singh</a></li>
+        <li>❇️ <a href="https://harshsingh32.vercel.app/">Portfolio</a></li>
     </ul>
     
 ----
