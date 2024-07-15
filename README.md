@@ -24,8 +24,7 @@
 ### 🌐 Socials 
 <a href="https://x.com/harshsitwts" target="_blank"><img
 src="https://img.shields.io/badge/Follow @harshsitwts-000000?style=for-the-badge&logo=x&logoColor=white"
-/></a><a href="https://bio.link/harshsingh32" target="_blank"><img src="https://img.shields.io/badge/BioLink-546E7A?style=for-the-badge&logo=biolink&logoColor=white"/>
-</a><a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a><a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto: hasew7890@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" />
+/></a>   <a href="https://bio.link/harshsingh32" target="_blank"><img src="https://img.shields.io/badge/BioLink-546E7A?style=for-the-badge&logo=biolink&logoColor=white"/></a>   <a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>  <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto: hasew7890@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a><a href="https://harshsingh3972.sayout.net"><img src= "https://img.shields.io/badge/Send Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
 </a>
 
