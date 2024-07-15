@@ -44,7 +44,6 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
@@ -54,15 +53,15 @@ src="https://img.shields.io/twitter/follow/harshsitwts?logo=twitter&style=for-th
 ---
 ### 🌐 Socials 
 <a href="https://twitter.com/harshsitwts" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>&nbsp;&nbsp;  <a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-F0587E?style=for-the-badge&logo=biolink&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>&nbsp;&nbsp;
+</a><a href="https://bio.link/harshsingh32" target="_blank"><img alt="BioLink" title="BioLink" src="https://img.shields.io/badge/BioLink-F0587E?style=for-the-badge&logo=biolink&logoColor=white"/>
+</a>
+<a href="https://hashnode.com/@harshsin327"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/harsh-singh-4245771a2" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto: hasew7890@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
 
 </p>
 
