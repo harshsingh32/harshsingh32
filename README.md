@@ -38,7 +38,7 @@ src="https://img.shields.io/badge/Follow @harshsitwts-000000?style=for-the-badge
 ### 🌀 Skills
 [![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-3185A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-03C4E8?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
