@@ -1,9 +1,7 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Singh
+### Hi there, I am Harsh Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">
  <!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+Harsh_Singh!%22);console.log(%22Welcome+to+my+profile!%22)" />
- </a> -->
-
-I'm a Software Developer with a passion for collaborate with awesome devs. As a skilled full-stack developer, I have expertise in Python, Git, and Cloud platforms like AWS, Azure, and GCP
+ </a> -->I'm a Software Developer with a passion for collaborate with awesome devs. As a skilled full-stack developer, I have expertise in Python, Git, and Cloud platforms like AWS, Azure, and GCP
 
 ---
 
