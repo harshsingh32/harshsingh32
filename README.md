@@ -79,3 +79,8 @@ src="https://img.shields.io/badge/Follow @harshsitwts-000000?style=for-the-badge
 <br />
 <br />
 </details>
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,go,django,git,aws,gcp,azure,nodejs,jenkins,docker,kubernetes,linux,mongodb,mysql,bash,nginx,postman,prometheus,qt,selenium,terraform,ansible&perline=11)](https://skillicons.dev)
