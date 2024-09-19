@@ -83,4 +83,4 @@ src="https://img.shields.io/badge/Follow @harshsitwts-000000?style=for-the-badge
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,nodejs,jenkins,linux,docker,kubernetes,mongodb,postman,prometheus,selenium,terraform&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,nodejs,jenkins,linux,docker,kubernetes,mongodb,postman,prometheus,selenium,terraform&perline=6)](https://skillicons.dev)
